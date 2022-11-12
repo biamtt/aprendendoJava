@@ -11,7 +11,6 @@ public class testeCaracteres {
 		String variavelPalavras = "Obrigatório uso de aspas duplas!!!!!!!!!";
 		System.out.println(variavelPalavras);
 	}
-
 }
 
 //char armazena apenas UM caracter (é uma variavel do tipo numero mas converte o numero para o que ele representa (tipo codigos da tabela unicode)

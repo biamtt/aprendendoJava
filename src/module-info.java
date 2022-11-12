@@ -6,4 +6,5 @@
  *
  */
 module PrimeiroDiaSintaxeVariaveisFluxo {
+	requires java.desktop;
 }
